@@ -1,0 +1,40 @@
+
+/* Login */
+a {
+	text-decoration: none;
+	color: #A5A5A5;
+}
+
+a:focus {
+	color: var(--grey);
+}
+.container-md {
+	max-width: 720px;
+}
+
+/* Dashboard  */
+
+.fit {
+	border-radius: 50% 50% 50% 50%;
+	width: 71px;
+	height: 50px;
+}
+
+.nav-img-size {
+	width: 60px;
+	height: 60px;
+}
+
+.fixado {
+	position: fixed;
+	bottom: 0;
+}
+
+.bandeira {
+	height: 30px;
+	width: 30px;
+}
+
+.headerAlign {
+	padding:0 25px;
+}
