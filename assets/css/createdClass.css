@@ -21,13 +21,15 @@ a:focus {
 }
 
 .nav-img-size {
-	width: 60px;
-	height: 60px;
+	width: 24px;
+	height: 24px;
 }
 
 .fixado {
 	position: fixed;
 	bottom: 0;
+	height: 60px;
+	max-width: 720px;
 }
 
 .bandeira {
@@ -37,4 +39,9 @@ a:focus {
 
 .headerAlign {
 	padding:0 25px;
+}
+
+.spacing {
+	display: block;
+	height: 74px;
 }

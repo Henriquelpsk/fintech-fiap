@@ -20,11 +20,19 @@
 	line-height: 13px;
 }
 
+.fs-12{
+	font-size: 12px;
+	line-height: 15px;
+}
+
 .fs-21 {
 	font-size: 21px;
 	line-height: 26px;
 }
 
+.ps-25 {
+	padding-left: 25px;
+}
 .main-bg {
 	background-color: var(--primary);
 }
